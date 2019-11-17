@@ -1,7 +1,9 @@
 # capstone_project_ML_arva
 Capstone Project for the Data Scientist Nanodegree
 
-This project was part of the Data Science Nanodegree from Udacity. The data was provided by Arvato Bertelsmann as well in a  [kaggle competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/overview)
+This project was part of the Data Science Nanodegree from Udacity. The data was provided by Arvato Bertelsmann as well in a  [kaggle competition](https://www.kaggle.com/c/udacity-arvato-identify-customers/overview).
+
+Here is a post on [Medium](https://medium.com/@rrosasl/customer-segmentation-using-supervised-and-unsupervised-learning-7522227961ed)
 
 #Installation
 
